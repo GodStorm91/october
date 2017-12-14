@@ -54,11 +54,11 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => 'localhost',
-            'port'      => '',
-            'database'  => 'database',
-            'username'  => 'root',
-            'password'  => '',
+            'host'      => '127.0.0.1',
+            'port'      => '3306',
+            'database'  => 'october_cms',
+            'username'  => 'homestead',
+            'password'  => 'secret',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',

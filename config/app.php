@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'http://cms-october.dev',
 
     /*
     |--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return [
     |
     */
 
-    'key' => 'CHANGE_ME!!!!!!!!!!!!!!!!!!!!!!!',
+    'key' => '3mowOqrZigKHL87tW4OdhaNE4ZAG4Tby',
 
     'cipher' => 'AES-256-CBC',
 
